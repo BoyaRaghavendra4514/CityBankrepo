@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Utility {
    public Date getSysDate() {
-	   System.out.println("Writing the Systemdate And time: ");
+	   System.out.println("writing the present date and time ");
 	   return new Date();
    }
 }
